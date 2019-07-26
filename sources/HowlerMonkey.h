@@ -7,12 +7,12 @@
 
 #import <Foundation/Foundation.h>
 
-//! Project version number for HowlerMonkeyIOS.
+//! Project version number for HowlerMonkey.
 FOUNDATION_EXPORT double HowlerMonkeyVersionNumber;
 
-//! Project version string for HowlerMonkeyIOS.
+//! Project version string for HowlerMonkey.
 FOUNDATION_EXPORT const unsigned char HowlerMonkeyVersionString[];
 
-// In this header, you should import all the public headers of your framework using statements like #import <HowlerMonkeyIOS/PublicHeader.h>
+// In this header, you should import all the public headers of your framework using statements like #import <HowlerMonkey/PublicHeader.h>
 
 
